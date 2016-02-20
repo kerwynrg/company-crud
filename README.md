@@ -1,2 +1,2 @@
-# company-crud
+# com-crud
 Company CRUD example to test some tools
