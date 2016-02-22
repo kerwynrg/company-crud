@@ -1,2 +1,3 @@
-# com-crud
-Company CRUD example to test some tools
+Company CRUD
+=======================
+Company CRUD example to test a java spring api
