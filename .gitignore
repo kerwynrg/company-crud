@@ -25,6 +25,3 @@ bin/
 *.ipr
 *.iws
 *.idea
-
-# Front end app should be added as external repository
-src/main/resources/static
